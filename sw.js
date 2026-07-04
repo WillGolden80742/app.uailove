@@ -1,43 +1,43 @@
-const CACHE_NAME = 'uailove-pwa-cache-v3';
-const urlsToCache = [
+var CACHE_NAME = 'uailove-pwa-cache-v3';
+var urlsToCache = [
   '/',
   '/acessar/'
 ];
 
-self.addEventListener('install', event => {
+self.addEventListener('install', function(event) {
   self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then(cache => {
+      .then(function(cache) {
         return cache.addAll(urlsToCache);
       })
   );
 });
 
-self.addEventListener('activate', event => {
+self.addEventListener('activate', function(event) {
   event.waitUntil(
-    caches.keys().then(keys => {
+    caches.keys().then(function(keys) {
       return Promise.all(
-        keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))
+        keys.filter(function(k) { return k !== CACHE_NAME; }).map(function(k) { return caches.delete(k); })
       );
     })
   );
 });
 
-self.addEventListener('fetch', event => {
+self.addEventListener('fetch', function(event) {
   event.respondWith(
     fetch(event.request)
-      .then(response => {
-        const clone = response.clone();
+      .then(function(response) {
+        var clone = response.clone();
         if (response.ok && event.request.method === 'GET') {
-          caches.open(CACHE_NAME).then(cache => {
+          caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, clone);
           });
         }
         return response;
       })
-      .catch(() => {
-        return caches.match(event.request).then(cached => {
+      .catch(function() {
+        return caches.match(event.request).then(function(cached) {
           return cached || caches.match('/acessar/');
         });
       })
