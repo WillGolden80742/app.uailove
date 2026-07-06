@@ -42,7 +42,7 @@ Todas as screenshots em `app/assets/images/` no repositório [WillGolden80742/ua
 | `/point` | ![Point](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-point-mobile-portrait.png) |
 | `/profile` | ![Profile](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-profile-mobile-portrait.png) |
 | `/notifications` | ![Notifications](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-notifications-mobile-portrait.png) |
-| `/admin` | ![Admin](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-admin-mobile-portrait.png) |
+| `/admin` | ![Admin](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-admin-mobile-portrait-new.png) |
 | `/shop` | ![Shop](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-shop-mobile-portrait.png) |
 | `/acessar` | ![Acessar](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-acessar-mobile-portrait.png) |
 
