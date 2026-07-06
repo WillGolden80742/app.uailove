@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordfence Security Activator\n"
+"POT-Creation-Date: 2025-11-12 18:21-0300\n"
+"PO-Revision-Date: 2025-11-12 18:22-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordfence-activator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: wordfence-activator.php:75 wordfence-activator.php:297
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: wordfence-activator.php:79 wordfence-activator.php:511
+msgid "Free License Installed."
+msgstr "Licença gratuita instalada."
+
+#: wordfence-activator.php:81 wordfence-activator.php:515
+msgid "Free License Not Installed!"
+msgstr "Licença gratuita não instalada!"
+
+#. Plugin Name of the plugin/theme
+#: wordfence-activator.php:260 wordfence-activator.php:279
+#: wordfence-activator.php:432
+msgid "Wordfence Security Activator"
+msgstr "Ativador Wordfence Security"
+
+#: wordfence-activator.php:262
+msgid " requires the "
+msgstr " requer o "
+
+#: wordfence-activator.php:264 wordfence-activator.php:524
+msgid "Wordfence Security plugin"
+msgstr "plugin Wordfence Security"
+
+#: wordfence-activator.php:266
+msgid " to be installed and activated."
+msgstr " instalado e ativado para funcionar."
+
+#: wordfence-activator.php:267
+msgid ""
+" Please after that follow the tutorial to install the first free license."
+msgstr ""
+" Depois disso, siga o tutorial para instalar a primeira licença gratuita."
+
+#: wordfence-activator.php:281
+msgid " cannot be activated because you need to "
+msgstr " não pode ser ativado porque você precisa "
+
+#: wordfence-activator.php:283
+msgid "follow the tutorial"
+msgstr "siga o tutorial"
+
+#: wordfence-activator.php:285
+msgid " to install the first free license."
+msgstr " para instalar a primeira licença gratuita."
+
+#: wordfence-activator.php:296
+msgid "Tutorial de Ativação"
+msgstr "Tutorial de Ativação"
+
+#: wordfence-activator.php:334
+msgid "Wordfence plugin is not active!"
+msgstr "O plugin Wordfence não está ativo!"
+
+#: wordfence-activator.php:340
+msgid "Free license installed successfully!"
+msgstr "Licença gratuita instalada com sucesso!"
+
+#: wordfence-activator.php:342
+msgid "Failed to install free license. Please try again later."
+msgstr ""
+"Falha ao instalar a licença gratuita. Por favor, tente novamente mais tarde."
+
+#: wordfence-activator.php:370
+msgid ""
+"Are you sure you want to unhide the plugin and show it in the plugins list?"
+msgstr ""
+"Tem certeza de que deseja exibir o plugin novamente na lista de plugins?"
+
+#: wordfence-activator.php:371
+msgid "Are you sure you want to hide the plugin from the plugins list?"
+msgstr "Tem certeza de que deseja ocultar o plugin da lista de plugins?"
+
+#: wordfence-activator.php:378
+msgid "Plugin unhidden successfully!"
+msgstr "Plugin reexibido com sucesso!"
+
+#: wordfence-activator.php:380
+msgid "Plugin hidden successfully!"
+msgstr "Plugin ocultado com sucesso!"
+
+#: wordfence-activator.php:381
+msgid "Your link to access the page is:"
+msgstr "Seu link para acessar a página é:"
+
+#: wordfence-activator.php:392
+msgid "Are you sure you want to disable automatic free license installation?"
+msgstr ""
+"Tem certeza de que deseja desativar a instalação automática de licença "
+"gratuita?"
+
+#: wordfence-activator.php:393
+msgid "Are you sure you want to enable automatic free license installation?"
+msgstr ""
+"Tem certeza de que deseja habilitar a instalação automática de licença "
+"gratuita?"
+
+#: wordfence-activator.php:400
+msgid "Automatic license installation disabled successfully!"
+msgstr "Instalação automática de licença desativada com sucesso!"
+
+#: wordfence-activator.php:402
+msgid "Automatic license installation enabled successfully!"
+msgstr "Instalação automática de licença habilitada com sucesso!"
+
+#: wordfence-activator.php:414
+msgid "Installing..."
+msgstr "Instalando..."
+
+#: wordfence-activator.php:433
+msgid "Please follow the tutorial below to install the free license."
+msgstr "Siga o tutorial abaixo para instalar a licença gratuita."
+
+#: wordfence-activator.php:436
+msgid "Hide plugin:"
+msgstr "Ocultar plugin:"
+
+#: wordfence-activator.php:438
+msgid ""
+"If you need to hide this plugin from appearing in the plugins list, click "
+"the button below."
+msgstr ""
+"Se você precisar ocultar este plug-in de aparecer na lista de plug-ins, "
+"clique no botão abaixo."
+
+#: wordfence-activator.php:442
+msgid "Current Status:"
+msgstr "Status atual:"
+
+#: wordfence-activator.php:445
+msgid "Hidden"
+msgstr "Escondido"
+
+#: wordfence-activator.php:446
+msgid "Unhide Plugin"
+msgstr "Desocultar plugin"
+
+#: wordfence-activator.php:449
+msgid "Visible"
+msgstr "Visível"
+
+#: wordfence-activator.php:450
+msgid "Hide Plugin"
+msgstr "Ocultar plugin"
+
+#: wordfence-activator.php:457
+msgid ""
+"If you hide the plugin, it will not be visible in the plugins list, but you "
+"can still access this page using the link below."
+msgstr ""
+"Se você ocultar o plug-in, ele não ficará visível na lista de plug-ins, mas "
+"você ainda poderá acessar esta página usando o link abaixo."
+
+#: wordfence-activator.php:458
+msgid "Save this link to access the page even when the plugin is hidden:"
+msgstr ""
+"Salve este link para acessar a página mesmo quando o plugin estiver oculto:"
+
+#: wordfence-activator.php:464
+msgid "Auto License Settings:"
+msgstr "Configurações de licença automática:"
+
+#: wordfence-activator.php:466
+msgid ""
+"Control automatic free license installation when no license is detected."
+msgstr ""
+"Controle a instalação automática de licenças gratuitas quando nenhuma "
+"licença for detectada."
+
+#: wordfence-activator.php:470
+msgid "Auto License Status:"
+msgstr "Status da licença automática:"
+
+#: wordfence-activator.php:473
+msgid "Enabled"
+msgstr "Ativado"
+
+#: wordfence-activator.php:474
+msgid "Disable Auto License"
+msgstr "Desativar licença automática"
+
+#: wordfence-activator.php:477
+msgid "Disabled"
+msgstr "Desativado"
+
+#: wordfence-activator.php:478
+msgid "Enable Auto License"
+msgstr "Ativar licença automática"
+
+#: wordfence-activator.php:485
+msgid ""
+"When enabled, the plugin will automatically try to install a free license "
+"when none is detected. When disabled, you will need to manually install the "
+"license following the tutorial below."
+msgstr ""
+"Quando ativado, o plug-in tentará instalar automaticamente uma licença "
+"gratuita quando nenhuma for detectada. Quando desativado, você precisará "
+"instalar manualmente a licença seguindo o tutorial abaixo."
+
+#: wordfence-activator.php:489
+msgid "No free license detected!"
+msgstr "Nenhuma licença gratuita detectada!"
+
+#: wordfence-activator.php:490
+msgid "Try Install Free License Now"
+msgstr "Experimente Instalar licença gratuita agora"
+
+#: wordfence-activator.php:491
+msgid ""
+"Click this button to manually attempt to install a free license from "
+"UltraPack servers."
+msgstr ""
+"Clique neste botão para tentar instalar manualmente uma licença gratuita dos "
+"servidores UltraPack."
+
+#: wordfence-activator.php:498
+msgid "Instalation Status:"
+msgstr "Status da instalação:"
+
+#: wordfence-activator.php:501
+msgid "Wordfence Security Free License Status:"
+msgstr "Wordfence Security status de licença gratuita:"
+
+#: wordfence-activator.php:520
+msgid "Wordfence Security plugin not installed!"
+msgstr "plugin Wordfence Security não instalado!"
+
+#: wordfence-activator.php:523
+msgid "Please download and install the plugin from the link: "
+msgstr "Por favor baixe e instale o plugin a partir do link: "
+
+#: wordfence-activator.php:533
+msgid "Free License Installation Tutorial"
+msgstr "Tutorial de instalação de licença gratuita"
+
+#: wordfence-activator.php:534
+msgid "To keep instalation click on \"Resume Installation\" warning message."
+msgstr ""
+"Para manter a instalação, clique na mensagem de aviso \"Retomar instalação\"."
+
+#: wordfence-activator.php:537
+msgid ""
+"First of all, you MUST install a free license on your site, otherwise the "
+"product will NOT work!"
+msgstr ""
+"Em primeiro lugar, você DEVE instalar uma licença gratuita em seu site, caso "
+"contrário, o produto NÃO funcionará!"
+
+#: wordfence-activator.php:540
+msgid "How to install the free license:"
+msgstr "Como instalar a licença gratuita:"
+
+#: wordfence-activator.php:542
+msgid ""
+"When installing the activator plugin, make sure you have the Wordfence "
+"plugin activated."
+msgstr ""
+"Ao instalar o plug-in ativador, certifique-se de ter o plug-in Wordfence "
+"ativado."
+
+#: wordfence-activator.php:543
+msgid ""
+"After installing Wordfence and the activator, resume the Wordfence "
+"installation:"
+msgstr ""
+"Depois de instalar o Wordfence e o ativador, retome a instalação do "
+"Wordfence:"
+
+#: wordfence-activator.php:544
+msgid "Wordfence Installation"
+msgstr "Instalação do Wordfence"
+
+#: wordfence-activator.php:546
+msgid ""
+"Click to get a license. You will be redirected to the plugin page where you "
+"will be asked to acquire a license, choose the <strong>Free</strong> option."
+msgstr ""
+"Clique para obter uma licença. Você será redirecionado para a página do "
+"plugin onde será solicitado que você adquira uma licença, escolha a opção "
+"<strong>Free</strong> ."
+
+#: wordfence-activator.php:547
+msgid ""
+"After obtaining a license, check your email for the key and return to "
+"WordPress."
+msgstr ""
+"Depois de obter uma licença, verifique seu e-mail para obter a chave e "
+"retorne ao WordPress."
+
+#: wordfence-activator.php:548
+msgid ""
+"Now install the license in <strong>Install an existing license</strong>, "
+"enter the data and activate as shown in the image:"
+msgstr ""
+"Agora instale a licença em <strong>Instalar uma licença existente</strong>, "
+"insira os dados e ative como mostrado na imagem:"
+
+#: wordfence-activator.php:549
+msgid "Install existing license"
+msgstr "Instalar licença existente"
+
+#: wordfence-activator.php:551
+msgid ""
+"Once your site is activated as shown below, the activator will automatically "
+"enable premium activation for the item:"
+msgstr ""
+"Depois que seu site for ativado conforme mostrado abaixo, o ativador ativará "
+"automaticamente a ativação premium para o item:"
+
+#: wordfence-activator.php:552
+msgid "Site activated"
+msgstr "Site ativado"
+
+#: wordfence-activator.php:555
+msgid "What to do after installing the free activation version:"
+msgstr "O que fazer depois de instalar a versão de ativação gratuita:"
+
+#: wordfence-activator.php:557
+msgid ""
+"After installing the free license, keep the activator plugin enabled on your "
+"site at all times for premium features to work."
+msgstr ""
+"Depois de instalar a licença gratuita, mantenha o plug-in ativador ativado "
+"em seu site o tempo todo para que os recursos premium funcionem."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://ultrapackv2.com"
+msgstr "https://ultrapackv2.com"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin automatically activates Wordfence Security without free license "
+"required"
+msgstr ""
+"Este plugin ativa automaticamente o Wordfence Security sem necessidade de "
+"licença gratuita"
+
+#. Author of the plugin/theme
+msgid "UltraPack Team"
+msgstr "UltraPack Team"
+
+#~ msgid ""
+#~ "Wordfence Security Plugin Activator. This plugin automatically activates "
+#~ "Wordfence needed have free license installed."
+#~ msgstr ""
+#~ "Ativador Wordfence Security. Este plugin ativa automaticamente o "
+#~ "Wordfence O Wordfence precisa ter uma licença gratuita instalada."
+
+#~ msgid "Wordfence Security Activator requires the "
+#~ msgstr "O Wordfence Security Activator requer o "

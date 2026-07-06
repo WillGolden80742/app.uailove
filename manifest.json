@@ -1,0 +1,16 @@
+{
+    "name": "Uailove",
+    "short_name": "Uailove",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#731c3c",
+    "icons": [
+        {
+            "src": "https://app.uailove.com.br/wp-content/uploads/2026/07/cropped-logo-512-1.png",
+            "sizes": "192x192 512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

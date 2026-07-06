@@ -1,0 +1,150 @@
+2026-06-08T00:45:24+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T00:45:24+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T00:45:24+00:00 ERROR Error persisting error logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T00:45:29+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T00:52:55+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T01:00:10+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T01:40:06+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T01:40:19+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:03:50+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:05:05+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:05:10+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:10:29+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T02:10:29+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T02:10:29+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:17:25+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:21:48+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:27:26+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:30:18+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:36:37+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:40:47+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:46:42+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:50:18+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T02:59:27+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T03:00:20+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T03:04:54+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T10:07:58+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T10:07:58+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T10:07:58+00:00 ERROR Error persisting error logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T10:07:58+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T12:07:09+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T12:07:09+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T12:07:09+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T14:33:26+00:00 NOTICE Unable to detect valid feed configuration: No catalog ID
+2026-06-08T14:33:26+00:00 NOTICE There was an error trying to get product set data in a catalog: Não foi possível criar a instância da API pois o token de acesso está faltando.
+2026-06-08T14:33:26+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Não foi possível criar a instância da API pois o token de acesso está faltando.; exception_trace : #0 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#5 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(570): WP_Hook->do_action()
+#6 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run()
+#11 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#12 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#13 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AsyncRequest_QueueRunner.php(48): do_action()
+#14 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/includes/libraries/wp-async-request.php(147): ActionScheduler_AsyncRequest_QueueRunner->handle()
+#15 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WP_Async_Request->maybe_handle()
+#16 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#17 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#18 /www/wwwroot/teste.uailove.com.br/wp-admin/admin-ajax.php(207): do_action()
+#19 {main}
+2026-06-08T14:33:26+00:00 NOTICE There was an error trying to get product set data in a catalog: Não foi possível criar a instância da API pois o token de acesso está faltando.
+2026-06-08T14:33:26+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Não foi possível criar a instância da API pois o token de acesso está faltando.; exception_trace : #0 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#5 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(570): WP_Hook->do_action()
+#6 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run()
+#11 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#12 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#13 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AsyncRequest_QueueRunner.php(48): do_action()
+#14 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/includes/libraries/wp-async-request.php(147): ActionScheduler_AsyncRequest_QueueRunner->handle()
+#15 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WP_Async_Request->maybe_handle()
+#16 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#17 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#18 /www/wwwroot/teste.uailove.com.br/wp-admin/admin-ajax.php(207): do_action()
+#19 {main}
+2026-06-08T14:33:26+00:00 NOTICE There was an error trying to get product set data in a catalog: Não foi possível criar a instância da API pois o token de acesso está faltando.
+2026-06-08T14:33:26+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Não foi possível criar a instância da API pois o token de acesso está faltando.; exception_trace : #0 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#5 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(570): WP_Hook->do_action()
+#6 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run()
+#11 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#12 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#13 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AsyncRequest_QueueRunner.php(48): do_action()
+#14 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/includes/libraries/wp-async-request.php(147): ActionScheduler_AsyncRequest_QueueRunner->handle()
+#15 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WP_Async_Request->maybe_handle()
+#16 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#17 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#18 /www/wwwroot/teste.uailove.com.br/wp-admin/admin-ajax.php(207): do_action()
+#19 {main}
+2026-06-08T14:33:26+00:00 NOTICE There was an error trying to get product set data in a catalog: Não foi possível criar a instância da API pois o token de acesso está faltando.
+2026-06-08T14:33:26+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Não foi possível criar a instância da API pois o token de acesso está faltando.; exception_trace : #0 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#5 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(570): WP_Hook->do_action()
+#6 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run()
+#11 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#12 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#13 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AsyncRequest_QueueRunner.php(48): do_action()
+#14 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/includes/libraries/wp-async-request.php(147): ActionScheduler_AsyncRequest_QueueRunner->handle()
+#15 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WP_Async_Request->maybe_handle()
+#16 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#17 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#18 /www/wwwroot/teste.uailove.com.br/wp-admin/admin-ajax.php(207): do_action()
+#19 {main}
+2026-06-08T14:33:26+00:00 NOTICE There was an error trying to get product set data in a catalog: Não foi possível criar a instância da API pois o token de acesso está faltando.
+2026-06-08T14:33:26+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Não foi possível criar a instância da API pois o token de acesso está faltando.; exception_trace : #0 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#5 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(570): WP_Hook->do_action()
+#6 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): ActionScheduler_QueueRunner->run()
+#11 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#12 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#13 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_AsyncRequest_QueueRunner.php(48): do_action()
+#14 /www/wwwroot/teste.uailove.com.br/wp-content/plugins/woocommerce/includes/libraries/wp-async-request.php(147): ActionScheduler_AsyncRequest_QueueRunner->handle()
+#15 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(341): WP_Async_Request->maybe_handle()
+#16 /www/wwwroot/teste.uailove.com.br/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#17 /www/wwwroot/teste.uailove.com.br/wp-includes/plugin.php(522): WP_Hook->do_action()
+#18 /www/wwwroot/teste.uailove.com.br/wp-admin/admin-ajax.php(207): do_action()
+#19 {main}
+2026-06-08T14:33:26+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T14:33:26+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T14:33:27+00:00 ERROR Error persisting error logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T14:33:27+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T19:20:21+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T19:20:21+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T19:20:21+00:00 ERROR Error persisting error logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T20:20:47+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T20:20:48+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-06-08T20:28:21+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T20:30:27+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-06-08T20:35:47+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []

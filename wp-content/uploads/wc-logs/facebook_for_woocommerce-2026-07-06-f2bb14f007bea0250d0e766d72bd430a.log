@@ -1,0 +1,14 @@
+2026-07-06T01:02:39+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-07-06T01:02:39+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
+2026-07-06T01:02:39+00:00 ERROR Error persisting error logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T01:02:46+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T01:08:38+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T01:19:03+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T01:19:04+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T01:29:08+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T01:36:59+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T01:37:05+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T02:10:22+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T02:10:28+00:00 ERROR Error persisting Meta logs: Não foi possível criar a instância da API pois o token de acesso está faltando. : []
+2026-07-06T02:10:28+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2026-07-06T02:10:28+00:00 WARNING Language override feed scheduling failed: Integration not configured. : {"flow_name":"language_override_feed","flow_step":"schedule_feed_generation"}
