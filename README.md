@@ -10,41 +10,41 @@ Tema WordPress para a plataforma de encontros **UaiLove**, com suporte a perfis 
 
 ## Screenshots
 
-Todas as screenshots em `wp-content/themes/uailove/app/assets/images/`.
+Todas as screenshots em `app/assets/images/` no repositório [WillGolden80742/uailove](https://github.com/WillGolden80742/uailove/tree/main/app/assets/images).
 
 ### Desktop (1920×1080)
 
 | Rota | Screenshot |
 |------|-----------|
-| `/discovery` | ![Discovery](wp-content/themes/uailove/app/assets/images/screenshot-discovery-landscape-1920.png) |
-| `/matches` | ![Matches](wp-content/themes/uailove/app/assets/images/screenshot-matches-landscape-1920.png) |
-| `/messages` | ![Messages](wp-content/themes/uailove/app/assets/images/screenshot-messages-landscape-1920.png) |
-| `/messages/reno` | ![Conversa](wp-content/themes/uailove/app/assets/images/screenshot-messages-conv-landscape-1920.png) |
-| `/messages/reno` + Emoji | ![Emoji](wp-content/themes/uailove/app/assets/images/screenshot-messages-conv-emoji-landscape-1920.png) |
-| `/messages/reno` + GIF | ![GIF](wp-content/themes/uailove/app/assets/images/screenshot-messages-conv-gif-landscape-1920.png) |
-| `/point` | ![Point](wp-content/themes/uailove/app/assets/images/screenshot-point-landscape-1920.png) |
-| `/profile` | ![Profile](wp-content/themes/uailove/app/assets/images/screenshot-profile-landscape-1920.png) |
-| `/notifications` | ![Notifications](wp-content/themes/uailove/app/assets/images/screenshot-notifications-landscape-1920.png) |
-| `/admin` | ![Admin](wp-content/themes/uailove/app/assets/images/screenshot-admin-landscape-1920.png) |
-| `/shop` | ![Shop](wp-content/themes/uailove/app/assets/images/screenshot-shop-landscape-1920.png) |
-| `/acessar` | ![Acessar](wp-content/themes/uailove/app/assets/images/screenshot-acessar-landscape-1920.png) |
+| `/discovery` | ![Discovery](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-discovery-landscape-1920.png) |
+| `/matches` | ![Matches](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-matches-landscape-1920.png) |
+| `/messages` | ![Messages](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-landscape-1920.png) |
+| `/messages/reno` | ![Conversa](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-conv-landscape-1920.png) |
+| `/messages/reno` + Emoji | ![Emoji](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-conv-emoji-landscape-1920.png) |
+| `/messages/reno` + GIF | ![GIF](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-conv-gif-landscape-1920.png) |
+| `/point` | ![Point](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-point-landscape-1920.png) |
+| `/profile` | ![Profile](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-profile-landscape-1920.png) |
+| `/notifications` | ![Notifications](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-notifications-landscape-1920.png) |
+| `/admin` | ![Admin](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-admin-landscape-1920.png) |
+| `/shop` | ![Shop](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-shop-landscape-1920.png) |
+| `/acessar` | ![Acessar](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-acessar-landscape-1920.png) |
 
 ### Mobile Portrait (375×812)
 
 | Rota | Screenshot |
 |------|-----------|
-| `/discovery` | ![Discovery](wp-content/themes/uailove/app/assets/images/screenshot-discovery-mobile-portrait.png) |
-| `/matches` | ![Matches](wp-content/themes/uailove/app/assets/images/screenshot-matches-mobile-portrait.png) |
-| `/messages` | ![Messages](wp-content/themes/uailove/app/assets/images/screenshot-messages-mobile-portrait.png) |
-| `/messages/reno` | ![Conversa](wp-content/themes/uailove/app/assets/images/screenshot-messages-conv-mobile-portrait.png) |
-| `/messages/reno` + Emoji | ![Emoji](wp-content/themes/uailove/app/assets/images/screenshot-messages-conv-emoji-mobile-portrait.png) |
-| `/messages/reno` + GIF | ![GIF](wp-content/themes/uailove/app/assets/images/screenshot-messages-conv-gif-mobile-portrait.png) |
-| `/point` | ![Point](wp-content/themes/uailove/app/assets/images/screenshot-point-mobile-portrait.png) |
-| `/profile` | ![Profile](wp-content/themes/uailove/app/assets/images/screenshot-profile-mobile-portrait.png) |
-| `/notifications` | ![Notifications](wp-content/themes/uailove/app/assets/images/screenshot-notifications-mobile-portrait.png) |
-| `/admin` | ![Admin](wp-content/themes/uailove/app/assets/images/screenshot-admin-mobile-portrait.png) |
-| `/shop` | ![Shop](wp-content/themes/uailove/app/assets/images/screenshot-shop-mobile-portrait.png) |
-| `/acessar` | ![Acessar](wp-content/themes/uailove/app/assets/images/screenshot-acessar-mobile-portrait.png) |
+| `/discovery` | ![Discovery](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-discovery-mobile-portrait.png) |
+| `/matches` | ![Matches](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-matches-mobile-portrait.png) |
+| `/messages` | ![Messages](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-mobile-portrait.png) |
+| `/messages/reno` | ![Conversa](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-conv-mobile-portrait.png) |
+| `/messages/reno` + Emoji | ![Emoji](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-conv-emoji-mobile-portrait.png) |
+| `/messages/reno` + GIF | ![GIF](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-messages-conv-gif-mobile-portrait.png) |
+| `/point` | ![Point](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-point-mobile-portrait.png) |
+| `/profile` | ![Profile](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-profile-mobile-portrait.png) |
+| `/notifications` | ![Notifications](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-notifications-mobile-portrait.png) |
+| `/admin` | ![Admin](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-admin-mobile-portrait.png) |
+| `/shop` | ![Shop](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-shop-mobile-portrait.png) |
+| `/acessar` | ![Acessar](https://github.com/WillGolden80742/uailove/blob/main/app/assets/images/screenshot-acessar-mobile-portrait.png) |
 
 ---
 
